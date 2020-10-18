@@ -19,3 +19,5 @@ avg <- rowMeans(tech.stocks)
 tech.stocks <- cbind(tech.stocks,avg)
 print(tech.stocks)
 
+
+
